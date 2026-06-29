@@ -448,6 +448,14 @@ SWITCH(TRUE(),
 
 ---
 
+### Arquivo do dashboard
+
+> O arquivo `.pbix` ultrapassa o limite de tamanho do GitHub.  
+> Acesse a prévia completa do dashboard em PDF:  
+> 📄 [modulo04_powerbi_olist.pdf](powerbi/modulo04_powerbi_olist.pdf)
+
+---
+
 ### Estrutura do dashboard
 
 **Página 1 — Olist · Visão Geral de Negócio**
